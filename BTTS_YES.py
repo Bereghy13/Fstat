@@ -4,7 +4,7 @@ import time
 def BTTS_YES(csv_reader):
     line_count = 0
 
-    BTTS_90_YES = False
+    #BTTS_90_YES = False
     BTTS_90_event_count = 0
     BTTS_90_YES_list = []
 
